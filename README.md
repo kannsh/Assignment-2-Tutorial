@@ -1,3 +1,17 @@
-# Assignment-2-Tutorial
-No dataset is needed in this assignment
-No dataset needed for this assignment. You can download and run the code
+# Assignment-2-Tutorial (Plot a sine and cosine wave without using cos function)
+
+# MUST READ #
+
+# *All notebooks, saved models and dataset folders must be inside your CWD
+
+# Download CSV file
+Place the graph.csv file into your CWD (current working directory) 
+
+Download the ipynb files and place in CWD
+
+# Running the notebook 
+1. Check where your CWD is located at
+
+To view your CWD import os os.getcwd()
+
+Mine is 'C:\Users\kansh\Desktop\FYP'
