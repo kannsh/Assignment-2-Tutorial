@@ -2,7 +2,7 @@
 
 # MUST READ #
 
-# *All notebooks, saved models and dataset folders must be inside your CWD
+# *All notebooks and CSV files must be inside your CWD
 
 # Download CSV file
 Place the graph.csv file into your CWD (current working directory) 
